@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SildingUpDwon</string>
+    <string name="isPullEnable">isPullEnable</string>
+	<string name="isPushEnable">isPushEnable</string>
+	<string name="isCover">isCover</string>
+	<string name="toggle_top">toggleTop</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SildingView">
+       
+        <attr name="headerView" format="reference" />
+        <attr name="contentView" format="reference" />
+        <attr name="topPosition" format="dimension" />
+        <attr name="pullEnable" format="boolean" />
+        <attr name="pushEnable" format="boolean" />
+        <attr name="isCover" format="boolean" />
+    </declare-styleable>
+
+</resources>

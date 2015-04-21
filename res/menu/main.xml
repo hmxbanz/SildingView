@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.yongchun.sildingupdwon.MainActivity" >
+
+    <item
+        android:id="@+id/pull_enable"
+        android:title="@string/isPullEnable"
+        app:showAsAction="never"/>
+	<item
+        android:id="@+id/push_enable"
+        android:title="@string/isPushEnable"
+        app:showAsAction="never"/>
+	<item
+        android:id="@+id/cover_enable"
+        android:title="@string/isCover"
+        app:showAsAction="never"/>
+	<item
+        android:id="@+id/top_position"
+        android:title="@string/toggle_top"
+        app:showAsAction="never"/>
+</menu>
